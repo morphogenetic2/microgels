@@ -5,7 +5,11 @@
 
 1. Install Miniconda or Anaconda if you haven't already. Miniconda is highly recommended, you can install it from [here](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe). Requires administrator privileges.
 
-2. Clone this repository or download the script and environment.yml file. You can clone the repository by installing git on your computer and 
+2. Clone this repository or download the script and environment.yml file. You can clone the repository by installing git on your computer and typing
+   ```
+   git clone https://github.com/morphogenetic2/microgels.git
+   ```
+
 
 3. Open a terminal or command prompt and navigate to the directory containing the files.
 
