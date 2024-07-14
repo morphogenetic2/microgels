@@ -37,5 +37,3 @@
 3. Click the "Process Images" button to start the analysis.
 4. The script will generate mask overlays and save them in the "mask_overlays" subfolder.
 5. Segmentation results will be saved as an Excel file in the selected folder. By default, and to avoid artifacts, the script will only save the segmented masks with an aspect ratio between 0.8 and 1.2, but this can be easily modified in the script.
-
-For any issues or questions, please contact Alex.
