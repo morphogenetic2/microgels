@@ -1,0 +1,18 @@
+name: microgel-analysis  # Give your environment a descriptive name
+channels:
+  - default
+  - conda-forge 
+dependencies:
+  - python=3.8    # Or your preferred Python version
+  - numpy
+  - pandas
+  - scikit-image
+  - cellpose
+  - matplotlib
+  - ipywidgets
+  - ipyfilechooser
+  - ipython
+  - seaborn       # Add Seaborn to the dependencies
+  - scipy         # Add SciPy to the dependencies 
+  - pip           # In case you need to install any additional packages
+  
