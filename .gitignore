@@ -2,3 +2,5 @@
 *.xlsx
 /mask_overlays
 *.tiff
+*.tif
+*.png
