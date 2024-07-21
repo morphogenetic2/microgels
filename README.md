@@ -1,7 +1,7 @@
 # Microgel image analysis
  This is a simple python script to analyze brightfield/phase contrast images of mostly spherical microparticles or microgels.
 
- ## Setup Instructions
+ ## Setup Instructions - local use only
 
 1. Install Miniconda or Anaconda if you haven't already. Miniconda is highly recommended, you can install it from [here](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe). Requires administrator privileges.
 
@@ -29,6 +29,10 @@
    ```
 
 7. The jupyter notebook will show up in your default browser (probably Chrome) and you need to press the ▶ button on the toolbar.
+
+## Using Google colab (remote, no installation needed)
+
+To use Google Colab to run this script, click on this [link](https://colab.research.google.com/github/morphogenetic2/microgels/blob/main/analysis_colab.ipynb?accelerator=gpu&runtime=t4) and login using your google account.
 
 ## Howto
 
